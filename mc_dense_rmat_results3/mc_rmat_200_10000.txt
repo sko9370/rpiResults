@@ -1,0 +1,3 @@
+../input_graphs/mc_rmat_inputs/rmat_200_10000.in,13331,3,200,10000,5.413944,0.001542,2,low,5
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort

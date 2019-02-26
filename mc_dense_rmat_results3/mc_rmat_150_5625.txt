@@ -1,0 +1,58 @@
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,4608,3,150,5625,287.800278,0.001404,2,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,22756,3,150,5625,374.475389,0.001445,2,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,1344,3,150,5625,392.663654,0.001473,2,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,27746,3,150,5625,408.054288,0.001422,2,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,14206,3,150,5625,290.456238,0.001344,2,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,16143,4,150,5625,306.637992,57.859653,1,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,3773,4,150,5625,201.719446,42.976216,1,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,9644,4,150,5625,198.225848,47.874810,1,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,30721,4,150,5625,107.384665,34.862985,1,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,7517,4,150,5625,162.054448,0.001330,1,low,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,25898,5,150,5625,365.691017,0.003556,1,low,5
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,27661,10,150,5625,0.256065,0.144641,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,30482,10,150,5625,0.333985,0.252496,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,28092,10,150,5625,0.238054,0.158190,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,20979,10,150,5625,0.390648,0.303289,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,22486,10,150,5625,0.275092,0.178935,1,high,5
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+[mpiexec@pi0] Sending Ctrl-C to processes as requested
+[mpiexec@pi0] Press Ctrl-C again to force abort
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,11908,12,150,5625,0.450104,0.353836,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,96,16,150,5625,0.279339,0.170165,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,20794,16,150,5625,0.329080,0.196415,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,14522,16,150,5625,0.496045,0.352771,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,25362,16,150,5625,0.437674,0.212969,1,high,5
+../input_graphs/mc_rmat_inputs/rmat_150_5625.in,15068,16,150,5625,0.708174,0.456821,1,high,5
