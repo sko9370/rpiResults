@@ -1,0 +1,5 @@
+../input_graphs/mc_er_inputs/er_400_4.in,4943,3,400,1600,9.428706,0.501858,20,low,200
+../input_graphs/mc_er_inputs/er_400_4.in,24525,3,400,1600,9.485052,0.850353,20,low,200
+../input_graphs/mc_er_inputs/er_400_4.in,12637,3,400,1600,10.083662,1.463044,20,low,200
+../input_graphs/mc_er_inputs/er_400_4.in,27658,3,400,1600,9.054342,0.037584,20,low,200
+../input_graphs/mc_er_inputs/er_400_4.in,8902,3,400,1600,9.192695,0.000595,20,low,200
